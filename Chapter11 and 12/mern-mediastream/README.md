@@ -2,6 +2,8 @@
 
 A media streaming application with media upload and stream features - developed using React, Node, Express and MongoDB.
 
+![MERN Mediastream](https://s3.amazonaws.com/mernbook/git+/mediastream.png "MERN Mediastream")
+
 ### [Live Demo](http://mediastream2.mernbook.com/ "MERN Mediastream")
 
 #### What you need to run this code
