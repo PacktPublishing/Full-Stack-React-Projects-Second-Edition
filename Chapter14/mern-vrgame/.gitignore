@@ -1,0 +1,5 @@
+/node_modules/
+/dist/bundle.js
+/dist/server.generated.js
+/data/
+npm-debug.log
