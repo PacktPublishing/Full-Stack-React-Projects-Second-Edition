@@ -57,7 +57,7 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Shama Hoque**
-Shama Hoque has more than 9 years of experience as a software developer and mentor, with a master’s in software engineering from Carnegie Mellon University.
+has more than 9 years of experience as a software developer and mentor, with a master’s in software engineering from Carnegie Mellon University.
 From Java programming to full-stack development with JavaScript, the applications she has worked on include national Olympiad registration websites, universally accessible widgets, video conferencing apps, and medical 3D reconstruction software.
 Currently, she makes web-based prototypes for R&D start-ups in California, while training aspiring software engineers and teaching web development to CS undergrads in Bangladesh.
 
