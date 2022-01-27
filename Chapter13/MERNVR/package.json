@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "16.3.2",
     "react-native": "~0.55.4",
-    "three": "^0.87.0",
+    "three": "^0.137.0",
     "react-360": "~1.1.0",
     "react-360-web": "~1.1.0"
   },
