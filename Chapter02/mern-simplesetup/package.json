@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@hot-loader/react-dom": "16.13.0",
-    "express": "4.17.1",
+    "express": "4.17.3",
     "mongodb": "3.5.5",
     "react": "16.13.1",
     "react-dom": "16.13.1",
